@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      NUPKG_PATH: BadMagic100.EmptyRoslyn/bin/Release/*.nupkg
+      NUPKG_PATH: bin/Release/*.nupkg
 
     steps:
     - uses: actions/checkout@v4
