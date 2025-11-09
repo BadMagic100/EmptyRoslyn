@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
     <RootNamespace>Project._1.Vsix</RootNamespace>
-    <AssemblyName>Project._.Vsix</AssemblyName>
+    <AssemblyName>Project._1.Vsix</AssemblyName>
   </PropertyGroup>
 
   <PropertyGroup>
