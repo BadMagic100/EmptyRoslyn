@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "BadMagic100",
+  "classifications": [
+    "Analyzers"
+  ],
+  "name": "Empty Roslyn Project",
+  "description": "Bare-bones empty Roslyn template",
+  "identity": "BadMagic100.EmptyRoslyn",
+  "shortName": "emptyroslyn",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "Project.1",
+  "preferNameDirectory": true,
+  "primaryOutputs": [
+    {
+      "path": "Project.1.slnx"
+    },
+    {
+      "path": "Project.1.Analyzers/Project.1.Analyzers.csproj"
+    },
+    {
+      "path": "Project.1.CodeFixes/Project.1.CodeFixes.csproj"
+    },
+    {
+      "path": "Project.1.Package/Project.1.Package.csproj"
+    },
+    {
+      "path": "Project.1.Test/Project.1.Test.csproj"
+    },
+    {
+      "path": "Project.1.Vsix/Project.1.Vsix.csproj"
+    }
+  ],
+  "guids": [
+    "3aa0c655-9792-406a-a26a-efccccd4a4e6"
+  ]
+}

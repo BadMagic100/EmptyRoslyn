@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Project.1.Analyzers/Project.1.Analyzers.csproj" />
+  <Project Path="Project.1.CodeFixes/Project.1.CodeFixes.csproj" />
+  <Project Path="Project.1.Package/Project.1.Package.csproj" />
+  <Project Path="Project.1.Test/Project.1.Test.csproj" />
+  <Project Path="Project.1.Vsix/Project.1.Vsix.csproj" />
+</Solution>
