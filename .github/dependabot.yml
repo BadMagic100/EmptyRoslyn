@@ -17,7 +17,8 @@ updates:
       - dependency-name: Microsoft.CodeAnalysis.*
     schedule:
       interval: daily
-  - directory: content/
+  - directories:
+      - content/**/.github/workflows/
     package-ecosystem: github-actions
     schedule:
       interval: daily
