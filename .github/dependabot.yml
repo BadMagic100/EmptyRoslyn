@@ -11,8 +11,7 @@ updates:
     schedule:
       interval: daily
   # distinct groups so that PRs will clearly indicate if the update is for the template package, or the template content
-  - directories:
-      - content/*/*/
+  - directory: content/
     package-ecosystem: nuget
     ignore:
       - dependency-name: Microsoft.CodeAnalysis.*
