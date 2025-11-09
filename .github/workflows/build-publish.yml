@@ -47,7 +47,7 @@ jobs:
       if: github.event_name == 'push'
       uses: NuGet/login@v1
       with:
-        user: ${{ secrets.NUGET_USER }}
+        user: BadMagic100
     - name: Publish NuGet
       id: publish
       if: github.event_name == 'push'
