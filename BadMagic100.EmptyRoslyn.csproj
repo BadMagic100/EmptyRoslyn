@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>BadMagic100.EmptyRoslyn</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>BadMagic100</Authors>
     <Description>Bare-bones Roslyn template</Description>
     <PackageTags>roslyn templates</PackageTags>
