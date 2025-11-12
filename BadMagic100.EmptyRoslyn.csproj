@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageId>BadMagic100.EmptyRoslyn</PackageId>
-    <PackageVersion>1.0.3</PackageVersion>
+    <PackageVersion>1.1.0</PackageVersion>
     <Authors>BadMagic100</Authors>
     <Description>Bare-bones Roslyn template</Description>
     <PackageTags>roslyn templates</PackageTags>
@@ -10,7 +10,7 @@
     <RepositoryUrl>https://github.com/BadMagic100/EmptyRoslyn</RepositoryUrl>
 
     <PackageType>Template</PackageType>
-    <TargetFramework>net9.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>

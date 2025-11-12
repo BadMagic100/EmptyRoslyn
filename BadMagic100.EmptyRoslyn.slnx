@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/github/">
+	<File Path=".github/dependabot.yml" />
+	<File Path=".github/workflows/build-publish.yml" />
+  </Folder>
   <Project Path="BadMagic100.EmptyRoslyn.csproj" />
 </Solution>

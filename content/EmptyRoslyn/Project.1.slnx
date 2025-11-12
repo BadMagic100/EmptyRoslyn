@@ -1,4 +1,12 @@
 <Solution>
+  <Folder Name="/github/">
+    <File Path=".github/dependabot.yml" />
+      <File Path=".github/workflows/build-publish.yml" />
+    </Folder>
+    <Folder Name="/config/">
+      <File Path="Directory.Build.props" />
+      <File Path="global.json" />
+    </Folder>
   <Project Path="Project.1.Analyzers/Project.1.Analyzers.csproj" />
   <Project Path="Project.1.CodeFixes/Project.1.CodeFixes.csproj" />
   <Project Path="Project.1.Package/Project.1.Package.csproj" />
